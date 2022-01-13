@@ -12,3 +12,5 @@
 12. Renamed “footer” class to “footing”
 13. Adjusted all .footer class tags in style.css to .footing
 14. Fixed background color of .seo to match .heading
+15. Updated title to a more accurate representation of the page
+16. Added alt tags for the 6 <img> tags in the code describing the picture

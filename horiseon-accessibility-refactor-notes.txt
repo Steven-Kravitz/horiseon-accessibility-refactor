@@ -11,3 +11,4 @@
 11. Changed <div> tag wrapping lines 74-79 to <footer>
 12. Renamed “footer” class to “footing”
 13. Adjusted all .footer class tags in style.css to .footing
+14. Fixed background color of .seo to match .heading

@@ -21,6 +21,7 @@ body {
 }
 
 .heading h1 .seo {
+    background-color: #2a607c;
     color: #d9dcd6;
 }
 
@@ -50,7 +51,6 @@ p {
     font-size: 16px;
 }
 
-/* Possibly change this class name to picture. Line 27 on index.html */
 .hero {
     height: 800px;
     width: 100%;

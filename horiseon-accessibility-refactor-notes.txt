@@ -1,0 +1,13 @@
+﻿1. Changed <div> tag wrapping lines 11-26 to <header>
+2. Renamed “header” class to “heading”
+3. Adjusted all .header class tags in style.css to .heading
+4. Changed <span> tag for seo recoloring to <mark> on line 12
+5. Renamed <div> tag wrapping lines 13-26 to <nav>
+6. Adjusted div tag in style.css to nav
+7. Changed <div> tag wrapping lines 28-50 to <main>
+8. Changed the three <div> tags contained in <main> to <section>
+9. Changed <div> tag wrapping lines 51-73 to <aside>
+10. Changed the three <div> tags contained in <aside> to <section>
+11. Changed <div> tag wrapping lines 74-79 to <footer>
+12. Renamed “footer” class to “footing”
+13. Adjusted all .footer class tags in style.css to .footing
